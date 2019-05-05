@@ -8,7 +8,7 @@ try {
     <!--Device Ready Function-->
     function onDeviceReadyForAjaxjs() {
 
-alert('deneme');
+
         try {
             <!--Initializing Push Notification-->
             let push = PushNotification.init({
@@ -164,8 +164,8 @@ alert('deneme');
             let regid = window.localStorage.getItem("regid");
             let kuryeID = courierId;
             let email = "";
-            common.showToast(regid, 'long', 'center', 0);
-            common.showToast(kuryeID, 'long', 'center', 0);
+            //common.showToast(regid, 'long', 'center', 0);
+            //common.showToast(kuryeID, 'long', 'center', 0);
             if (regid !== "" && regid !== null && kuryeID !== "" && parseInt(kuryeID) > 0) {
                 let data = {"regid": regid, "courierId": parseInt(kuryeID), "email": email, "courierHash": courierHash}
                 <!--Passing those values to the insertregid.php file-->
