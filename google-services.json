@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "809436805306",
+    "firebase_url": "https://krapp-8173.firebaseio.com",
+    "project_id": "krapp-8173",
+    "storage_bucket": "krapp-8173.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809436805306:android:6b0aef189ffb5a24",
+        "android_client_info": {
+          "package_name": "com.kuryeotomasyon.www"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809436805306-p5gj7p60uul6ot1ce0dkuujqdi2gdfef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlzhUT8aPVPZaO3REfGGeQydOWkisEB2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809436805306-p5gj7p60uul6ot1ce0dkuujqdi2gdfef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

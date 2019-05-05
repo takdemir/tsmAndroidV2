@@ -1,0 +1,68 @@
+{
+  "name": "com.kuryeotomasyon.www",
+  "version": "0.0.2",
+  "displayName": "Motorlu Kurye Otomasyon Sistemleri",
+  "cordova": {
+    "platforms": [
+      "android"
+    ],
+    "plugins": {
+      "cordova-android-support-gradle-release": {
+        "ANDROID_SUPPORT_VERSION": "27.+"
+      },
+      "cordova-plugin-firebase": {},
+      "cordova-plugin-battery-status": {},
+      "cordova-plugin-camera": {},
+      "cordova-plugin-device": {},
+      "cordova-plugin-dialogs": {},
+      "cordova-plugin-file": {},
+      "cordova-plugin-geolocation": {},
+      "cordova-plugin-globalization": {},
+      "cordova-plugin-inappbrowser": {},
+      "cordova-plugin-network-information": {},
+      "cordova-plugin-vibration": {},
+      "cordova-plugin-mauron85-background-geolocation": {
+        "GOOGLE_PLAY_SERVICES_VERSION": "11+",
+        "ANDROID_SUPPORT_LIBRARY_VERSION": "26+",
+        "ICON": "@mipmap/icon",
+        "SMALL_ICON": "@mipmap/icon",
+        "ACCOUNT_NAME": "@string/app_name",
+        "ACCOUNT_LABEL": "@string/app_name",
+        "ACCOUNT_TYPE": "$PACKAGE_NAME.account",
+        "CONTENT_AUTHORITY": "$PACKAGE_NAME"
+      },
+      "cordova-plugin-whitelist": {},
+      "cordova-plugin-x-toast": {},
+      "cordova-plugin-insomnia": {},
+      "cordova-plugin-locationservices": {},
+      "phonegap-plugin-push": {
+        "ANDROID_SUPPORT_V13_VERSION": "27.+",
+        "FCM_VERSION": "11.6.2"
+      },
+      "org.apache.cordova.geolocation": {}
+    }
+  },
+  "dependencies": {
+    "cordova-android": "~7.1.4",
+    "cordova-android-support-gradle-release": "^3.0.0",
+    "cordova-plugin-firebase": "2.0.5",
+    "org.apache.cordova.geolocation": "^0.3.6",
+    "phonegap-plugin-push": "^2.2.3"
+  },
+  "devDependencies": {
+    "cordova-plugin-battery-status": "~1.2.4",
+    "cordova-plugin-camera": "~2.4.1",
+    "cordova-plugin-device": "~1.1.6",
+    "cordova-plugin-dialogs": "~1.3.3",
+    "cordova-plugin-geolocation": "~2.4.3",
+    "cordova-plugin-globalization": "~1.0.7",
+    "cordova-plugin-inappbrowser": "~1.7.1",
+    "cordova-plugin-insomnia": "~4.3.0",
+    "cordova-plugin-locationservices": "~2.1.0",
+    "cordova-plugin-mauron85-background-geolocation": "~3.0.1",
+    "cordova-plugin-network-information": "~1.3.3",
+    "cordova-plugin-vibration": "~2.1.5",
+    "cordova-plugin-whitelist": "~1.3.3",
+    "cordova-plugin-x-toast": "~2.7.2"
+  }
+}
