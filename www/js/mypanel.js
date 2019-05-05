@@ -25,8 +25,7 @@ function onDeviceReadyForMyPanel(){
 
         <!--Setting attributes for Android, IOS and Windows-->
         android: {
-            senderID: "809436805306",
-            icon: 'kos'
+            senderID: "809436805306"
         },
         ios: {
             alert: "true",

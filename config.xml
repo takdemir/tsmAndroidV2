@@ -35,11 +35,11 @@
     <plugin name="cordova-plugin-insomnia" spec="~4.3.0" />
     <plugin name="cordova-plugin-locationservices" spec="~2.1.0" />
     <platform name="android">
-        <resource-file src="www/res/icon/android/mipmap-mdpi/kos.png" target="res/drawable-mdpi/kos.png" />
-        <resource-file src="www/res/icon/android/mipmap-hdpi/kos.png" target="res/drawable-hdpi/kos.png" />
-        <resource-file src="www/res/icon/android/mipmap-xhdpi/kos.png" target="res/drawable-xhdpi/kos.png" />
-        <resource-file src="www/res/icon/android/mipmap-xxhdpi/kos.png" target="res/drawable-xxhdpi/kos.png" />
-        <resource-file src="www/res/icon/android/mipmap-xxxhdpi/kos.png" target="res/drawable-xxxhdpi/kos.png" />
+        <icon density="mdpi" src="www/res/icon/android/mipmap-mdpi/kos.png" />
+        <icon density="hdpi" src="www/res/icon/android/mipmap-hdpi/kos.png" />
+        <icon density="xhdpi" src="www/res/icon/android/mipmap-xhdpi/kos.png" />
+        <icon density="xxhdpi" src="www/res/icon/android/mipmap-xxhdpi/kos.png" />
+        <icon density="xxxhdpi" src="www/res/icon/android/mipmap-xxxhdpi/kos.png" />
         <resource-file src="google-services.json" target="google-services.json" />
     </platform>
     <access origin="*" />
