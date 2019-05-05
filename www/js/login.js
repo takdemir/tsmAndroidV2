@@ -8,7 +8,7 @@ document.addEventListener("deviceready",onDeviceReadyForAjaxjs,false);
 <!--Device Ready Function-->
 function onDeviceReadyForAjaxjs(){
 
-
+    window.localStorage.setItem("regid", '');
     try {
         <!--Initializing Push Notification-->
         let push = PushNotification.init({

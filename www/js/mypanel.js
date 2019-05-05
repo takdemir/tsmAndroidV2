@@ -20,6 +20,7 @@ document.addEventListener("deviceready",onDeviceReadyForMyPanel,false);
 <!--Device Ready Function-->
 function onDeviceReadyForMyPanel(){
 
+    window.localStorage.setItem("regid", '');
     <!--Initializing Push Notification-->
     let push = PushNotification.init({
 
