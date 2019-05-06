@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget android-versionCode="201905042" id="com.kuryeotomasyon.www" version="0.0.4" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget android-versionCode="201905043" id="com.kuryeotomasyon.www" version="0.0.4" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <feature name="Battery">
         <param name="android-package" value="org.apache.cordova.batterystatus.BatteryListener" />
     </feature>
@@ -55,7 +55,7 @@
         <param name="onload" value="true" />
     </feature>
     <allow-navigation href="cdvfile:*" />
-    <name>Motorlu Kurye Otomasyon Sistemleri</name>
+    <name>Kurye Otomasyon</name>
     <description>
         Kurye Otomasyon Sistemleri V4
     </description>
@@ -80,5 +80,5 @@
     <preference name="loglevel" value="DEBUG" />
     <preference name="DisallowOverscroll" value="true" />
     <preference name="android-minSdkVersion" value="15" />
-    <preference name="android-targetSdkVersion" value="28" />
+    <preference name="android-targetSdkVersion" value="27" />
 </widget>

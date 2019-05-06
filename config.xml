@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget android-versionCode="201905042" id="com.kuryeotomasyon.www" version="0.0.4" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>Motorlu Kurye Otomasyon Sistemleri</name>
+<widget android-versionCode="201905043" id="com.kuryeotomasyon.www" version="0.0.4" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Kurye Otomasyon</name>
     <description>
         Kurye Otomasyon Sistemleri V4
     </description>
@@ -10,7 +10,7 @@
     <content src="login.html" />
     <preference name="DisallowOverscroll" value="true" />
     <preference name="android-minSdkVersion" value="15" />
-    <preference name="android-targetSdkVersion" value="28" />
+    <preference name="android-targetSdkVersion" value="27" />
     <plugin name="cordova-plugin-battery-status" source="npm" spec="~1.2.4" />
     <plugin name="cordova-plugin-camera" source="npm" spec="~2.4.1" />
     <plugin name="cordova-plugin-device" source="npm" spec="~1.1.6" />
