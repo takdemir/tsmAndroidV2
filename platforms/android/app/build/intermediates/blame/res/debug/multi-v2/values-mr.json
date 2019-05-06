@@ -4,58 +4,7 @@
             "outputFile": "C:\\Users\\taner\\WebstormProjects\\tsmAndroidV2\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-mr\\values-mr.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\taner\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-tagmanager-16.0.8.aar\\505279770f8bf62313e35159e6bafd8f\\res\\values-mr\\values.xml",
-                    "from": {
-                        "startLines": "4,5,6",
-                        "startColumns": "0,0,0",
-                        "startOffsets": "208,305,421",
-                        "endColumns": "96,115,97",
-                        "endOffsets": "304,420,518"
-                    },
-                    "to": {
-                        "startLines": "40,41,42",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "4799,4900,5020",
-                        "endColumns": "100,119,101",
-                        "endOffsets": "4895,5015,5117"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\taner\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\8998ccbcb6d9a7f5b43528e13c2c1c87\\res\\values-mr\\values-mr.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "39",
-                        "startColumns": "4",
-                        "startOffsets": "4698",
-                        "endColumns": "100",
-                        "endOffsets": "4794"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\taner\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\bd93578c32d1a8e2695de3a15bd18a1d\\res\\values-mr\\values-mr.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,216,322,429,519,620,735,812,890,970,1082,1184,1280,1389,1490,1605,1762,1867",
-                        "endColumns": "110,105,106,89,100,114,76,77,79,111,101,95,108,100,114,156,104,79",
-                        "endOffsets": "211,317,424,514,615,730,807,885,965,1077,1179,1275,1384,1485,1600,1757,1862,1942"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,38",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,216,322,429,519,620,735,812,890,970,1082,1184,1280,1389,1490,1605,1762,4618",
-                        "endColumns": "110,105,106,89,100,114,76,77,79,111,101,95,108,100,114,156,104,79",
-                        "endOffsets": "211,317,424,514,615,730,807,885,965,1077,1179,1275,1384,1485,1600,1757,1862,4693"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\taner\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\2c75ff6cf32f4fdb4c67d0f92b804db8\\res\\values-mr\\values.xml",
+                    "source": "C:\\Users\\taner\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\ec39a930bb91c1df9a8ff07c1806f37f\\res\\values-mr\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -72,7 +21,24 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\taner\\.gradle\\caches\\transforms-1\\files-1.1\\firebase-messaging-17.6.0.aar\\6bd920d2e92608ae2c02f42a48cb01d0\\res\\values-mr\\values.xml",
+                    "source": "C:\\Users\\taner\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-tagmanager-16.0.8.aar\\68f3d21896da15665c48db2e1bb082df\\res\\values-mr\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6",
+                        "startColumns": "0,0,0",
+                        "startOffsets": "208,305,421",
+                        "endColumns": "96,115,97",
+                        "endOffsets": "304,420,518"
+                    },
+                    "to": {
+                        "startLines": "40,41,42",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "4799,4900,5020",
+                        "endColumns": "100,119,101",
+                        "endOffsets": "4895,5015,5117"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\taner\\.gradle\\caches\\transforms-1\\files-1.1\\firebase-messaging-17.6.0.aar\\ebfb60860d80c9c9290c476f02c181e0\\res\\values-mr\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -89,7 +55,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\taner\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-16.2.0.aar\\65ae77e1546b94207fb6f86b0bd8e092\\res\\values-mr\\values.xml",
+                    "source": "C:\\Users\\taner\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-16.2.0.aar\\54a07569d472cee57f674ebc5c2a1e1a\\res\\values-mr\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -103,6 +69,40 @@
                         "startOffsets": "3005",
                         "endColumns": "201",
                         "endOffsets": "3202"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\taner\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\416554e95e1e45a6059410540a870420\\res\\values-mr\\values-mr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "39",
+                        "startColumns": "4",
+                        "startOffsets": "4698",
+                        "endColumns": "100",
+                        "endOffsets": "4794"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\taner\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\fc0d923229fb72093b59a93ee26e94a2\\res\\values-mr\\values-mr.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,216,322,429,519,620,735,812,890,970,1082,1184,1280,1389,1490,1605,1762,1867",
+                        "endColumns": "110,105,106,89,100,114,76,77,79,111,101,95,108,100,114,156,104,79",
+                        "endOffsets": "211,317,424,514,615,730,807,885,965,1077,1179,1275,1384,1485,1600,1757,1862,1942"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,38",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,216,322,429,519,620,735,812,890,970,1082,1184,1280,1389,1490,1605,1762,4618",
+                        "endColumns": "110,105,106,89,100,114,76,77,79,111,101,95,108,100,114,156,104,79",
+                        "endOffsets": "211,317,424,514,615,730,807,885,965,1077,1179,1275,1384,1485,1600,1757,1862,4693"
                     }
                 }
             ]

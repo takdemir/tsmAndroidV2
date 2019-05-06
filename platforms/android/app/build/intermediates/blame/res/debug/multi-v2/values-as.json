@@ -4,41 +4,7 @@
             "outputFile": "C:\\Users\\taner\\WebstormProjects\\tsmAndroidV2\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-as\\values-as.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\taner\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-16.2.0.aar\\65ae77e1546b94207fb6f86b0bd8e092\\res\\values-as\\values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "184",
-                        "endOffsets": "431"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1235",
-                        "endColumns": "184",
-                        "endOffsets": "1415"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\taner\\.gradle\\caches\\transforms-1\\files-1.1\\firebase-messaging-17.6.0.aar\\6bd920d2e92608ae2c02f42a48cb01d0\\res\\values-as\\values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "205",
-                        "endColumns": "99",
-                        "endOffsets": "304"
-                    },
-                    "to": {
-                        "startLines": "20",
-                        "startColumns": "4",
-                        "startOffsets": "2714",
-                        "endColumns": "103",
-                        "endOffsets": "2813"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\taner\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-tagmanager-16.0.8.aar\\505279770f8bf62313e35159e6bafd8f\\res\\values-as\\values.xml",
+                    "source": "C:\\Users\\taner\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-tagmanager-16.0.8.aar\\68f3d21896da15665c48db2e1bb082df\\res\\values-as\\values.xml",
                     "from": {
                         "startLines": "4,5,6",
                         "startColumns": "0,0,0",
@@ -55,7 +21,41 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\taner\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\2c75ff6cf32f4fdb4c67d0f92b804db8\\res\\values-as\\values.xml",
+                    "source": "C:\\Users\\taner\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-16.2.0.aar\\54a07569d472cee57f674ebc5c2a1e1a\\res\\values-as\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "184",
+                        "endOffsets": "431"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1235",
+                        "endColumns": "184",
+                        "endOffsets": "1415"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\taner\\.gradle\\caches\\transforms-1\\files-1.1\\firebase-messaging-17.6.0.aar\\ebfb60860d80c9c9290c476f02c181e0\\res\\values-as\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "205",
+                        "endColumns": "99",
+                        "endOffsets": "304"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "2714",
+                        "endColumns": "103",
+                        "endOffsets": "2813"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\taner\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\ec39a930bb91c1df9a8ff07c1806f37f\\res\\values-as\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",

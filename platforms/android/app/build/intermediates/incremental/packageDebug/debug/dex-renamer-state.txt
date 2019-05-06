@@ -1,4 +1,4 @@
-#Mon May 06 19:21:47 EET 2019
+#Mon May 06 19:36:35 EET 2019
 base.0=C\:\\Users\\taner\\WebstormProjects\\tsmAndroidV2\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 path.1=classes2.dex
 renamed.1=classes2.dex
