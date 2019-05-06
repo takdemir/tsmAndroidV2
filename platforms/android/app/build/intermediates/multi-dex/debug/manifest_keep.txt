@@ -1,0 +1,2 @@
+# Referenced at C:\Users\taner\WebstormProjects\tsmAndroidV2\platforms\android\app\build\intermediates\manifests\full\debug\AndroidManifest.xml:65
+-keep class android.support.multidex.MultiDexApplication { <init>(...); }
